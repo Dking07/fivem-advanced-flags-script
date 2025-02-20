@@ -54,7 +54,7 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 
 ## CONFIG
 
-* ### You can choose which effects will be applied through the configuration file.
+* ### You can choose which flags will be applied through the configuration file.
 <div align="center">
 <img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Advanced%20Flags/config.png" width="500px" />
 </div>
