@@ -55,7 +55,7 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 <img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Advanced%20Flags/config.png" width="500px" />
 </div>
 
-## Discord
+## DISCORD
 
 ### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
 
