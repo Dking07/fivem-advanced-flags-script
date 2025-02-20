@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-This script allows you to apply custom Advanced Flags to vehicles in FiveM, giving you full control over vehicle handling behaviors. Unlike other scripts, such as [dk_speed_gain_fix](https://github.com/Dking07/fivem-speed-gain-fix), this script enables you to define and apply any Advanced Flags you want.
+This script allows you to apply custom Advanced Flags to vehicles in FiveM, giving you full control over vehicle handling behaviors. Unlike other scripts, such as [SPEED GAIN FIX](https://github.com/Dking07/fivem-speed-gain-fix), this script enables you to define and apply any Advanced Flags you want.
 
 ## KEY FEATURES
 
