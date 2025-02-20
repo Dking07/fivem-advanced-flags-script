@@ -39,14 +39,14 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 ### MODIFICATIONS
 
 * Add CCarHandlingData in the SubHandlingData section, like this:
-    ```
-    <SubHandlingData>
-      <Item type="CCarHandlingData">
-      </Item>
-      <Item type="NULL" />
-      <Item type="NULL" />
-    </SubHandlingData>
-    ```
+  ```
+  <SubHandlingData>
+    <Item type="CCarHandlingData">
+    </Item>
+    <Item type="NULL" />
+    <Item type="NULL" />
+  </SubHandlingData>
+  ```
 
 ## CONFIG
 
