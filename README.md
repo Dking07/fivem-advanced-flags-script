@@ -30,6 +30,10 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 
 * Monitoring: The script continuously monitors vehicles to ensure that flags are only applied to valid entities and cleans up any references to deleted vehicles.
 
+## GET NOW
+
+* [DOWNLOAD](https://dking.tebex.io/package/6695029)
+
 ## HOW TO INSTALL
 
 * [Download](https://keymaster.fivem.net/asset-grants) script;
