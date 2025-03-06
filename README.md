@@ -63,6 +63,12 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 
 ### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
 
+## CHANGELOGS
+
+### 1.1
+
+* Improved the way flags are applied.
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
