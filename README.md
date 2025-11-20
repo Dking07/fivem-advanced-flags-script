@@ -36,9 +36,9 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 
 ## HOW TO INSTALL
 
-* [Download](https://keymaster.fivem.net/asset-grants) script;
+* [Download](https://portal.cfx.re/assets/granted-assets) script;
 * Place it in the resources folder;
-* Add 'ensure dking_advancedflags' (without quotes) to server.cfg.
+* Add 'ensure dking_advflags' (without quotes) to server.cfg.
 
 ### MODIFICATIONS
 
@@ -55,8 +55,8 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 ## CONFIG
 
 * ### You can choose which flags will be applied through the configuration file.
-<div align="center">
-<img src="https://github.com/Dking07/fivem-advanced-flags-script/blob/main/config.png" width="500px" />
+<div align="left">
+<img src="https://github.com/user-attachments/assets/496f429b-456d-4a3d-8be6-c67a5e2f8311" width="500px" />
 </div>
 
 ## DISCORD
