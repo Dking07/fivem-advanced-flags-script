@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-This script allows you to apply custom Advanced Flags to vehicles in FiveM, giving you full control over vehicle handling behaviors. Unlike other scripts, such as [SPEED GAIN FIX](https://github.com/Dking07/fivem-speed-gain-fix), this script enables you to define and apply any Advanced Flags you want.
+With this system, it is no longer necessary to manually set advanced flags in each vehicle's handling.meta file; it will do this for you. You define the flags that will be used, and the script applies them automatically. You can also create presets to apply different flags to specific vehicles.
 
 ## KEY FEATURES
 
@@ -43,7 +43,7 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 ### MODIFICATIONS
 
 * Add CCarHandlingData in the SubHandlingData section, like this:
-  ```
+  ```xml
   <SubHandlingData>
     <Item type="CCarHandlingData">
     </Item>
@@ -71,4 +71,4 @@ This script allows you to apply custom Advanced Flags to vehicles in FiveM, givi
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2025 ©
+## BY [DKING](https://github.com/Dking07) 2026 ©
