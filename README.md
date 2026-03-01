@@ -32,7 +32,7 @@ With this system, it is no longer necessary to manually set advanced flags in ea
 
 ## GET NOW
 
-* [DOWNLOAD](https://dking.tebex.io/package/6695029)
+* [DOWNLOAD](https://dking.tebex.io/package/6695027)
 
 ## HOW TO INSTALL
 
